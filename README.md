@@ -4,16 +4,14 @@ Aprendendo isso através da plataforma da Rocketseat
 # 📷 Telas na versão Web
 
 <div align="center" >
-  <img src="[https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG](https://user-images.githubusercontent.com/44561610/212794688-dee46b3e-c25b-4610-836f-0b9d35bb3a97.png)"> 
-   <img src="[https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG](https://user-images.githubusercontent.com/44561610/212794688-dee46b3e-c25b-4610-836f-0b9d35bb3a97.png)"> 
-
-  
+ <img src="https://user-images.githubusercontent.com/44561610/212794825-d4f52c80-80ef-4610-91c8-9fd2b27d3a9e.png">
 </div>
+
 
 # 📷 Telas na versão Mobile
 
 <div align="center" >
-  <img src="[https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG](https://user-images.githubusercontent.com/44561610/212794688-dee46b3e-c25b-4610-836f-0b9d35bb3a97.png)"> 
+  <img src="https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG"> 
 </div>
 
 
