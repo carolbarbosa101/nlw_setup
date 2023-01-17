@@ -1,11 +1,21 @@
 # gerenciador de tarefas com gráficos de contruibuição, este conteúdo faz parte do desafio Nlw Setup.
 Aprendendo isso através da plataforma da Rocketseat
 
-# 📷 Tela
+# 📷 Telas na versão Web
 
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG"> 
+  <img src="[https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG](https://user-images.githubusercontent.com/44561610/212794688-dee46b3e-c25b-4610-836f-0b9d35bb3a97.png)"> 
+   <img src="[https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG](https://user-images.githubusercontent.com/44561610/212794688-dee46b3e-c25b-4610-836f-0b9d35bb3a97.png)"> 
+
+  
 </div>
+
+# 📷 Telas na versão Mobile
+
+<div align="center" >
+  <img src="[https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG](https://user-images.githubusercontent.com/44561610/212794688-dee46b3e-c25b-4610-836f-0b9d35bb3a97.png)"> 
+</div>
+
 
 
 ## 🚀 Tecnologias
