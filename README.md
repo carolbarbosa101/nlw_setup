@@ -4,14 +4,37 @@ Aprendendo isso através da plataforma da Rocketseat
 # 📷 Telas na versão Web
 
 <div align="center" >
- <img src="https://user-images.githubusercontent.com/44561610/212794825-d4f52c80-80ef-4610-91c8-9fd2b27d3a9e.png">
+ <img src="https://user-images.githubusercontent.com/44561610/212795202-ae354a26-5036-4fd5-aa6a-9bc046fff9ae.png">
+ <br /> 
+ <br />
+ <img src="https://user-images.githubusercontent.com/44561610/212795258-e4c2ba1b-8590-4121-99a2-3dabd8d15922.png">
 </div>
 
 
 # 📷 Telas na versão Mobile
 
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG"> 
+ <img src="https://user-images.githubusercontent.com/44561610/212795385-e8322850-c19d-40c2-9fd8-abce46b7fa0b.png">
+ <br /> 
+ <br />
+<img src="https://user-images.githubusercontent.com/44561610/212795373-dd56b6b3-0dad-4aaa-b85b-8cedcb287bd7.png">
+ <br /> 
+ <br />
+<img src="https://user-images.githubusercontent.com/44561610/212795377-a212489f-e745-4ddd-b9de-1bfb9f43e40a.png">
+ <br /> 
+ <br />
+<img src="https://user-images.githubusercontent.com/44561610/212795378-a2113e09-20d2-488c-84f3-43f1777dc73e.png">
+ <br /> 
+ <br />
+<img src="https://user-images.githubusercontent.com/44561610/212795382-844ce5cb-27f1-44ee-bbb0-ba461b66e6cb.png">
+ <br /> 
+ <br />
+<img src="https://user-images.githubusercontent.com/44561610/212795385-e8322850-c19d-40c2-9fd8-abce46b7fa0b.png">
+ <br /> 
+ <br />
+<img src="https://user-images.githubusercontent.com/44561610/212795383-f3750dc6-e348-44e4-9ffb-ff70c9293ba6.png">
+ <br /> 
+ <br />
 </div>
 
 
