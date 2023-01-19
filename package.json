@@ -6,4 +6,5 @@
     "@fastify/cors": "^8.2.0",
     "@prisma/client": "^4.9.0"
   }
+  
 }
